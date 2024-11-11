@@ -12,7 +12,8 @@ description: Les objectifs de DEMOCRAFT
 </style>
 
 ## 1️⃣ Fondation
-![Experience Bar 90%](img/xp-90.png)
+
+![Experience Bar](img/xp-90.png)
 
 - 🌐 BedWars Dynamique
 - 🪅 BedWars 1.21
