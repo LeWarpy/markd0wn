@@ -31,10 +31,18 @@ toc: false
 - 🔫 FFA indépendant
 - 🏛 Nouvelles Cartes
 - 📱Nouveau DEMOPHONE
+- 🏷 Optimization des permissions (2/2)
+- 
 
 ### 2️⃣ Consolidation
+- 🔼 Mise à jours vers 1.21.3
+- 🪅 Objets Globaux ItemsAdder
+
 ### 3️⃣ Création
+- 🌌 Création des Realms
+
 ### 4️⃣ Finitions
+
 ### 5️⃣ Publication
 
 </div>
