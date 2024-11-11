@@ -1,5 +1,5 @@
 ---
 title: 🎀 Pack de Ressource
-weight: 20
+weight: 30
 ---
 

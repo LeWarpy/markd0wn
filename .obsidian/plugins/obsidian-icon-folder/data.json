@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPalette",
-      "LiCircuitBoard",
-      "LiMerge",
-      "LiGitBranch",
-      "LiImages"
+      "LiPackage2",
+      "LiWebhook",
+      "LiPhone",
+      "LiBuilding2",
+      "LiPalette"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,7 +50,6 @@
   "resources/_index.md": "LiPackage2",
   "_index.md": "LiHome",
   "welcome/connexion": "LiWifi",
-  "welcome/lobby": "LiBuilding2",
   "legal/asso": "LiHandshake",
   "games/bedwars": "LiBed",
   "games/pvp": "LiSwords",
@@ -65,5 +64,9 @@
   "worlds/skyblock": "LiMoonStar",
   "resources/img": "LiImages",
   "resources/roadmap.md": "LiCircuitBoard",
-  "welcome/pack.md": "LiPalette"
+  "welcome/pack.md": "LiPalette",
+  "welcome/lobby.md": "LiBuilding2",
+  "welcome/demophone.md": "LiPhone",
+  "welcome/mondes-vs-jeux.md": "LiWebhook",
+  "welcome/_index.md": "LiPackage2"
 }
