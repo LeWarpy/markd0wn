@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImages",
       "LiMoonStar",
       "LiOmega",
       "LiEarthLock",
-      "LiSunMoon",
-      "LiTreePine"
+      "LiSunMoon"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,6 @@
   "worlds/smp": "LiTreePine",
   "worlds/reamls": "LiEarthLock",
   "worlds/oneblock": "LiOmega",
-  "worlds/skyblock": "LiMoonStar"
+  "worlds/skyblock": "LiMoonStar",
+  "resources/img": "LiImages"
 }

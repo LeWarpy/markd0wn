@@ -1,8 +1,7 @@
 {
   "promptDelete": false,
   "mobileToolbarCommands": [
-    "editor:insert-wikilink",
-    "editor:insert-embed",
+    "editor:insert-link",
     "editor:insert-tag",
     "editor:attach-file",
     "editor:set-heading",
@@ -12,7 +11,6 @@
     "editor:toggle-highlight",
     "editor:toggle-code",
     "editor:toggle-blockquote",
-    "editor:insert-link",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
@@ -22,5 +20,10 @@
     "editor:redo",
     "editor:insert-table",
     "editor:configure-toolbar"
-  ]
+  ],
+  "autoConvertHtml": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./"
 }
