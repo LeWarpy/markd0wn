@@ -36,12 +36,13 @@ toc: false
 ### 2️⃣ Consolidation
 - 🔼 Mise à jours vers 1.21.3
 - 🪅 Objets Globaux ItemsAdder
+- 🏛 Finitions sur le lobby
 
 ### 3️⃣ Création
 - 🌌 Création des Realms
+- 🏛 Lobby uniques sur les mondes
 
-### 4️⃣ Finitions
-
-### 5️⃣ Publication
+### 4️⃣ Publication
+- 🗺 Salon / Conférences
 
 </div>
