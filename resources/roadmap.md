@@ -3,6 +3,7 @@ weight: 815
 title: 🔄 Roadmap
 icon: travel_explore
 description: Les objectifs de DEMOCRAFT
+toc: false
 ---
 
 <style>
