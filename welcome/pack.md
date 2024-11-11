@@ -1,6 +1,5 @@
 ---
-title: Pack de Ressource
+title: 🎀 Pack de Ressource
 weight: 20
 ---
 
-WIP
