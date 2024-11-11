@@ -8,7 +8,8 @@ description: Les objectifs de DEMOCRAFT
 <style>
   h3,
   .supra,
-  .docs-content .main-content .supra ul{
+  .docs-content .main-content .supra ul,
+  .docs-content .main-content .supra li{
     color: color-mix(in hsl, var(--text-default), transparent 60%) !important;
   }
 </style>
