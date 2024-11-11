@@ -17,7 +17,7 @@ toc: false
 
 ## 1️⃣ Fondation
 
-![Experience Bar](http://docs.democraft.fr/docs/resources/img/xp-95.png)
+![Experience Bar](http://docs.democraft.fr/docs/resources/img/xp-90.png)
 
 - 🌐 BedWars Dynamique
 - 🪅 BedWars 1.21
@@ -29,6 +29,8 @@ toc: false
 - 🔼 Mise à jour 1.21.1
 - ⚔️ Duel(s) indépendant
 - 🔫 FFA indépendant
+- 🏛 Nouvelles Cartes
+- 📱Nouveau DEMOPHONE
 
 ### 2️⃣ Consolidation
 ### 3️⃣ Création
