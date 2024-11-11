@@ -13,7 +13,7 @@ description: Les objectifs de DEMOCRAFT
 
 ## 1️⃣ Fondation
 
-![Experience Bar](http://localhost:1313/docs/resources/img/xp-95.png)
+![Experience Bar](http://docs.democraft.fr/docs/resources/img/xp-95.png)
 
 - 🌐 BedWars Dynamique
 - 🪅 BedWars 1.21
