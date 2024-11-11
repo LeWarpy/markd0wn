@@ -43,7 +43,7 @@ toc: false
 - 🏛 Lobby uniques sur les mondes
 - 🛋 Mobilier
 - 💎 Set pour le faction
-- 🪩 Nom de code : `CC`
+- 🪩 Nom de code : CC
 
 ### 4️⃣ Publication
 - 🗺 Salon / Conférences
