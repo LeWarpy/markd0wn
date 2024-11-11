@@ -7,7 +7,7 @@ description: Les objectifs de DEMOCRAFT
 
 <style>
   h3 {
-    color-mix(in hsl, var(--text-default), transparent 60%) !important;
+    color: color-mix(in hsl, var(--text-default), transparent 60%) !important;
   }
 </style>
 
