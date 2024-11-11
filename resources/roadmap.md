@@ -32,7 +32,6 @@ toc: false
 - 🏛 Nouvelles Cartes
 - 📱Nouveau DEMOPHONE
 - 🏷 Optimization des permissions (2/2)
-- 
 
 ### 2️⃣ Consolidation
 - 🔼 Mise à jours vers 1.21.3
