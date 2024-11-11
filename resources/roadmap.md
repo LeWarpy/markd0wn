@@ -1,4 +1,4 @@
-### 1️⃣ Fondation
+### 1️⃣ Fondations
 ![Experience Bar 90%](img/xp-90.png)
 
 - 🌐 BedWars Dynamique
