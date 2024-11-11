@@ -5,13 +5,18 @@ icon: travel_explore
 description: Les objectifs de DEMOCRAFT
 ---
 
-### 1️⃣ Fondation
+<style>
+  .docs-content .main-content h3,
+  .docs-content .main-content .h3 {
+    color-mix(in hsl, var(--text-default), transparent 60%)
+  }
+</style>
+
+## 1️⃣ Fondation
 ![Experience Bar 90%](img/xp-90.png)
 
 - 🌐 BedWars Dynamique
 - 🪅 BedWars 1.21
-
-<div style="color: color-mix(in hsl, var(--text-default), transparent 60%) !important;">
 
 - XXX
 
