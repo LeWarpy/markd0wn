@@ -41,8 +41,12 @@ toc: false
 ### 3️⃣ Création
 - 🌌 Création des Realms
 - 🏛 Lobby uniques sur les mondes
+- 🛋 Mobilier
+- 💎 Set pour le faction
+- 🪩 Nom de code : `CC`
 
 ### 4️⃣ Publication
 - 🗺 Salon / Conférences
+- 🎬 Partenariat avec des créateurs
 
 </div>
