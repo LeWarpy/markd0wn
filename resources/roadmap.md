@@ -11,7 +11,7 @@ description: Les objectifs de DEMOCRAFT
 - 🌐 BedWars Dynamique
 - 🪅 BedWars 1.21
 
-<div style="">
+<div style="color: rgba(var(--text-default), 0.5);">
 
 - XXX
 
