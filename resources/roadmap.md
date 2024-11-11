@@ -6,7 +6,8 @@ description: Les objectifs de DEMOCRAFT
 ---
 
 <style>
-  h3 {
+  h3,
+  .supra {
     color: color-mix(in hsl, var(--text-default), transparent 60%) !important;
   }
 </style>
@@ -17,6 +18,8 @@ description: Les objectifs de DEMOCRAFT
 
 - 🌐 BedWars Dynamique
 - 🪅 BedWars 1.21
+
+<div class="supra">
 
 - XXX
 
