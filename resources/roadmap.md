@@ -24,7 +24,11 @@ toc: false
 
 <div class="supra">
 
-- XXX
+- ⚒️ Infrastructure Dynamique (5/5)
+- 🔥 Optimisation (6/6)
+- 🔼 Mise à jour 1.21.1
+- ⚔️ Duel(s) indépendant
+- 🔫 FFA indépendant
 
 ### 2️⃣ Consolidation
 ### 3️⃣ Création
