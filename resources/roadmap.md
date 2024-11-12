@@ -17,7 +17,7 @@ toc: false
 
 ## 1️⃣ Fondation
 
-![Experience Bar](http://docs.democraft.fr/docs/resources/img/xp-90.png)
+![Experience Bar](http://docs.democraft.fr/xp-90.png)
 
 - 🌐 BedWars Dynamique
 - 🪅 BedWars 1.21
@@ -29,24 +29,24 @@ toc: false
 - 🔼 Mise à jour 1.21.1
 - ⚔️ Duel(s) indépendant
 - 🔫 FFA indépendant
-- 🏛 Nouvelles Cartes
+- 🎑 Nouvelles Cartes
 - 📱Nouveau DEMOPHONE
-- 🏷 Optimization des permissions (2/2)
+- 🏷️ Optimization des permissions (2/2)
 
 ### 2️⃣ Consolidation
 - 🔼 Mise à jours vers 1.21.3
 - 🪅 Objets Globaux ItemsAdder
-- 🏛 Finitions sur le lobby
+- 🎑 Finitions sur le lobby
 
 ### 3️⃣ Création
 - 🌌 Création des Realms
-- 🏛 Lobby uniques sur les mondes
-- 🛋 Mobilier
+- 🎑 Lobby uniques sur les mondes
+- 🏮 Mobilier
 - 💎 Set pour le faction
 - 🪩 Nom de code : CC
 
 ### 4️⃣ Publication
-- 🗺 Salon / Conférences
+- 🛹 Salon / Conférences
 - 🎬 Partenariat avec des créateurs
 
 </div>

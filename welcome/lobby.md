@@ -7,16 +7,20 @@ Le lobby est le monde principale de DEMOCRAFT. Sauf exceptions, c'est le monde q
 
 ## 📸 Le Lobby en Images
 
-<figure><img src="/lobby/1.jpeg" alt=""><figcaption><p>L'ile dite principale, avec le bâtiment des bureaux et les personnages qui vous téléporte sur les autres serveurs.</p></figcaption></figure>
+![Screenshot 1](https://docs.democraft.fr/lobby/1.jpeg)
+l’île appelée "île originelle", avec le bâtiment des bureaux et les personnages qui vous téléporte sur les autres serveurs.
 
-<figure><img src="/lobby/2.jpeg" alt=""><figcaption><p>La grande ile, créé récement, qui abrite les autres batiments de DEMOCRAFT</p></figcaption></figure>
+![Screenshot 2](https://docs.democraft.fr/lobby/2.jpeg)
+La grande ile - ou île principale, créé récemment, qui abrite les autres bâtiments de DEMOCRAFT
 
-<figure><img src="/lobby/3.jpeg" alt=""><figcaption><p>Le parc de DEMOCRAFT et notre mascote, DEMO (original hein?) qui flotte sur le lac</p></figcaption></figure>
+![Screenshot 3](https://docs.democraft.fr/lobby/3.jpeg)
+Le parc de DEMOCRAFT et notre mascotte, DEMO (original hein?) qui flotte sur le lac
 
-<figure><img src="/lobby/4.jpeg" alt=""><figcaption><p>L'allé du staff, dans le batiment principal de la grande ile</p></figcaption></figure>
+![Screenshot 4](https://docs.democraft.fr/lobby/4.jpeg)
+L'allé du staff, dans le bâtiment principal de la grande ile. Il est originaire de notre ancien lobby, avec celui sur 
 
-<figure><img src="/lobby/5.jpeg" alt=""><figcaption><p>Petite cheminée pour mettre Vaati au coin du feu </p></figcaption></figure>
+![Screenshot 5](https://docs.democraft.fr/lobby/5.jpeg)
+Petite cheminée pour mettre Vaati au coin du feu
 
-<figure><img src="/lobby/6.jpeg" alt=""><figcaption><p>La grande montagne de DEMOCRAFT - qui n'a pas encore de nom. Grande ile, Grande Montagne</p></figcaption></figure>
-
-<figure><img src="/lobby/7.jpeg" alt=""><figcaption><p>La place du marché de DEMOCRAFT, absolument pas en construction. Aussi; Je Marche.</p></figcaption></figure>
+![Screenshot 6](https://docs.democraft.fr/lobby/6.jpeg)
+La grande montagne de DEMOCRAFT - qui n'a pas encore de nom. Grande ile, Grande Montagne
