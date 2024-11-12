@@ -1,5 +1,5 @@
 ---
-title: Xbox
+title: 🟢 Xbox
 weight: 17
 ---
 

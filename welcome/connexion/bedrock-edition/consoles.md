@@ -1,5 +1,5 @@
 ---
-title: Toutes Consoles
+title: 🎮 Étape finale Consoles
 weight: 20
 ---
 

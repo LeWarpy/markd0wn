@@ -1,5 +1,5 @@
 ---
-title: Playstation
+title: 🔵 Playstation
 weight: 18
 ---
 
