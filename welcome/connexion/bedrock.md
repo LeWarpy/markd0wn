@@ -1,5 +1,5 @@
 ---
-title: 📱 Se connecter sur Bedrock Edition
+title: 📱 Bedrock Edition
 weight: 16
 ---
 

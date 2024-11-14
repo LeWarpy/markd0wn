@@ -18,12 +18,12 @@ tags:
 | Groupes                  | 3 Joueurs |                    5 Joueurs                    |                 8 Joueurs                  |                   10 Joueurs                    |                    Illimité                    |
 | Changement de Skin       |    ❌     |                       ✅                        |                     ✅                     |                       ✅                        |                       ✅                       |
 | Commande `/fly`          |    ❌     |                       ❌                        |                     ✅                     |                       ✅                        |                       ✅                       |
-| Kit Hébdomadaire[+1](#1)     |    ❌     |                     200💎                      |                   500💎                   |                     800💎                      |                    1200💎                     |
+| Kit Hébdomadaire[¹](#1)     |    ❌     |                     200💎                      |                   500💎                   |                     800💎                      |                    1200💎                     |
 | Role discord             |  Joueur   | **<span style="color: #f55;">Mini-DEMO</span>** | **<span style="color: #f55;">DEMO</span>** | **<span style="color: #f55;">DEMO PLUS</span>** | **<span style="color: #f55;">DEMO MAX</span>** |
 | Homes                    |     5     |                        8                        |                     12                     |                       15                        |                       20                       |
 | Cooldown Téléportation   |    10s    |                       10s                       |                    10s                     |                       ❎                        |                       ❎                       |
-| Booster de coins[^1]     |    ❌     |                       ❌                        |                    +50%                    |                      +100%                      |                     +200%                      |
-| Avatar Personalisé[^2]   |    ❌     |                       ❌                        |                     ✅                     |                       ✅                        |                       ✅                       |
+| Booster de coins[²](#2)     |    ❌     |                       ❌                        |                    +50%                    |                      +100%                      |                     +200%                      |
+| Avatar Personalisé[³](#3)   |    ❌     |                       ❌                        |                     ✅                     |                       ✅                        |                       ✅                       |
 {{< /table >}}
 
 ---
@@ -114,5 +114,8 @@ Et ouaip, il fallait fonder le serveur
 ##### Conditions 
 - Être Vaati ou avoir reçu le grade de Vaati. #GOAT
 
-[^1]: En développement ou développement partiel
-[^2]: Voir discord.
+---
+###### 1
+En développement ou développement partiel
+###### 2
+Voir discord.
