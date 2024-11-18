@@ -35,7 +35,7 @@ Tout nos dessins (assets) que nous n'avons pas acheté à des tiers nous apparti
 
 {{% alert context="danger" %}}
 **Attention aux anciens projets !**
-Ils ne sont pas tombé sous le droit commun ! Pour Wynaria par exemple, la marque, le code et les assets (principalement GUI) nous appartiennent toujours (à Benkuro11) et **ne peuvent donc pas être réutilisé, sauf avec son accord.**
+Ils ne sont pas tombé sous le droit commun ! Pour Wyntaria par exemple, la marque, le code et les assets (principalement GUI) nous appartiennent toujours (à Benkuro11) et **ne peuvent donc pas être réutilisé, sauf avec son accord.**
 {{% /alert %}}
 
 # 🖨️ Copyright 
