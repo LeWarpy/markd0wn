@@ -8,8 +8,8 @@ icon: home
 - achivements 👌
 - end stone 👌
 - armure et prot /2 👌
-- A rejoint 
+- A rejoint 👌
 - Hunger Bar 👌bof
-- map fondue 
-- map qui boom
-- 
+- map fondue 👌
+- map qui boom 👌
+- Noms items shop 🩸
