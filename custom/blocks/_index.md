@@ -1,5 +1,5 @@
 ---
-title: 🧱 Blocs
+title: 🧱 Blocks
 weight: 660
-description: Liste des blocs ajoutés sur DEMOCRAFT
+description: List of blocks added on DEMOCRAFT
 ---

@@ -1,7 +1,5 @@
 ---
-title: 🎏 Mobilier
+title: 🎏 Furniture
 weight: 630
-description: List de tout les objets de mobilier ajoutés sur DEMOCRAFT
+description: List of all furniture items added on DEMOCRAFT
 ---
-
-

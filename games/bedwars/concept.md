@@ -2,14 +2,14 @@
 title: 📜 Concept
 icon: bed
 weight: 210
-description: Le but du bedwars est de détruire le lit desautres équipes et être la dernière équipe à survivre. Ce lit vous permet de revivre si vous êtes tué(e). Dès que le lit d'une équipe est détruit, les joueurs ne peuvent plus revivre.
+description: The goal of BedWars is to destroy the beds of other teams and be the last team standing. This bed allows you to respawn if you are killed. Once a team's bed is destroyed, players can no longer respawn.
 ---
 
-## 🎩 Equipes
+## 🎩 Teams
 
-Selon le mode de jeux, la composition des équipes est différente :
+Depending on the game mode, team composition varies:
 
-* En Duels, il y a deux équipes de 1 joueur
-* En Solo, il y a 4 ou 8 équipes de 1 joueur (selon la carte)
-* En Duo,  il y a 4 ou 8 équipes de 2 joueur (selon la carte)
-* En Quads, il y a 4 équipes de 4 joueurs
+* In Duels, there are two teams of 1 player each.
+* In Solo, there are 4 or 8 teams of 1 player each (depending on the map).
+* In Duo, there are 4 or 8 teams of 2 players each (depending on the map).
+* In Quads, there are 4 teams of 4 players each.

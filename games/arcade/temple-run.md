@@ -3,5 +3,5 @@ title: 🛕 Temple Run
 weight: 246
 ---
 
-## ℹ️ Fonctionnement
-Le Temple Run Minecraft est une reproduction du jeu au même nom : le jeu est un parcour avec des obstacles, et le but est d'arriver au temple final en premier
+## ℹ️ How it works
+Minecraft Temple Run is a recreation of the game of the same name: the game is a course with obstacles, and the goal is to reach the final temple first.

@@ -1,6 +1,6 @@
 ---
 weight: 200
-title: 🎮 Mini-Jeux
-description: Tutoriels et règles des différents mini-jeux sur DEMOCRAFT
+title: 🎮 Mini-Games
+description: Tutorials and rules for the various mini-games on DEMOCRAFT
 icon: stadia_controller
 ---

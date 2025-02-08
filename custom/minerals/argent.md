@@ -1,4 +1,4 @@
 ---
-title: Argent
+title: Silver
 weight: 692
 ---

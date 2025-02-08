@@ -3,4 +3,4 @@ title: 💥 Bomb Lobbers
 weight: 249
 ---
 
-## ℹ️ Fonctionnement
+## ℹ️ How it works

@@ -3,5 +3,5 @@ title: 💣 TNT Tag
 weight: 245
 ---
 
-## ℹ️ Fonctionnement
-Le TNT Tag ressemble à un chat : un joueur reçoit une bombe qui explosera après une minute. En tappant un joueur, il peu donner la bombe à ce joueur. Si la bombe explose, le joueur qui la possédait est éliminé. Le dernier en vie gagne
+## ℹ️ How it works
+TNT Tag is similar to tag: a player receives a bomb that will explode after one minute. By hitting another player, they can pass the bomb to that player. If the bomb explodes, the player who had it is eliminated. The last player standing wins.

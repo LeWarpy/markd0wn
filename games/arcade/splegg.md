@@ -3,4 +3,4 @@ title: ☄️ Splegg
 weight: 242
 ---
 
-## ℹ️ Fonctionnement
+## ℹ️ How it works

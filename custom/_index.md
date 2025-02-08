@@ -1,6 +1,6 @@
 ---
 weight: 600
 title: 🧩 Custom
-description: Liste, crafts et utilisation des objets customisés introduits sur DEMOCRAFT
+description: List, crafting, and usage of custom items introduced on DEMOCRAFT
 icon: emoji_objects
 ---

@@ -1,5 +1,5 @@
 ---
-title: 💎 Minerais
+title: 💎 Minerals
 weight: 690
-description: Liste de tout les minerais ajoutés sur DEMOCRAFT
+description: List of all ores added on DEMOCRAFT
 ---

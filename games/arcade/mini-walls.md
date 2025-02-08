@@ -3,5 +3,5 @@ title: 🕋 Mini Walls
 weight: 246
 ---
 
-## ℹ️ Fonctionnement
-Les joueurs sont répartit entre 4 équipes. Chaque équipe possède une maison, un chaque maison à un cœur représente par un wither. Le but est de détruire le cœur des maisons adverses et de protéger le votre
+## ℹ️ How it works
+Players are divided into 4 teams. Each team has a house, and each house has a heart represented by a wither. The goal is to destroy the hearts of the opposing houses while protecting your own.

@@ -3,9 +3,9 @@ title: 🔫 Quake
 weight: 241
 ---
 
-## ℹ️ Fonctionnement
-Vous recevez une houe en bois. Elle vous sert de pistolet - vous gagnez un point par joueur touché. Le premier qui atteind 25 point gagné la partit.
+## ℹ️ How it works
+You receive a wooden hoe. It serves as your gun - you gain one point per player hit. The first to reach 25 points wins the game.
 
-## 💸 Récompenses 
-- 🥇 **Gagnant :** 50 pièces 🪙
-- 🥉 **Autres Joueurs :** 20 pièces 🪙
+## 💸 Rewards
+- 🥇 **Winner:** 50 coins 🪙
+- 🥉 **Other Players:** 20 coins 🪙

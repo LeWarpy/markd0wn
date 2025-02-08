@@ -1,12 +1,12 @@
 ---
-title: 🎏 Mobilier
+title: 🎏 Furniture
 weight: 631
-description: Attencioné, le mobilier ne marche malheureusement pas partout
+description: Waaarning, furniture unfortunately doesn't work everywhere
 ---
 
 {{% alert context="danger" %}}
-**LE MOBILIER N'EST PAS COMPLÈTEMENT COMPATIBLE SUR BEDROCK**
+**FURNITURE IS NOT FULLY COMPATIBLE ON BEDROCK**
 
-Du à des limitations avec Minecraft Bedrock, certaines fonctionnalités du mobilier, comme l'affichage de l'icône dans l'inventaire amène à des erreurs... 
-Nous travaillons cependant pour les régler.
+Due to limitations within Minecraft Bedrock, some furniture features, like displaying the icon in the inventory, cause errors...
+We are working to fix them.
 {{% /alert %}}

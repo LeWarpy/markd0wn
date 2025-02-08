@@ -3,4 +3,4 @@ title: 🎉 Party Games
 weight: 243
 ---
 
-## ℹ️ Fonctionnement
+## ℹ️ How it works
