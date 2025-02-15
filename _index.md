@@ -1,7 +1,7 @@
 ---
 weight: 0
-title: 🥳 Bienvenu sur le Wiki de DEMOCRAFT !
-description: Utilisez les menus si dessous pour vous orienter sur ce site web. Bonne lecture !
+title: 🥳 Bienvenue sur le Wiki de DEMOCRAFT !
+description: Utilisez les menus ci-dessous pour vous orienter sur ce site web. Bonne lecture !
 icon: home
 ---
 - pas d'eppe au spawn 👌
